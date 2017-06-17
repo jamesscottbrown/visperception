@@ -1,6 +1,6 @@
 This repo contains a list of scientific papers that, broadly, study how particular types of visulization are perceived.
 
-It is rendered in an interactive viewer at [visperception.com](http://www.visperception.com/)
+It is rendered in an interactive viewer at [visperception.com](http://www.visperception.com/), using [Pubiz](https://github.com/fhstp/PubViz).
 
 
 ## Contributing
