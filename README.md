@@ -9,7 +9,9 @@ Any contributions to this list would be welcome: just send a pull request or [em
 
 In particular, more work is needed in the following areas:
 
-* adding relevant papers from the BELIV (Beyond Time and Error) and [EuroRV3](http://www.eurorvvv.org/) ( eproducibility, Verification, and Validation in Visualization) workshops
+* adding relevant papers from the BELIV (Beyond Time and Error) and [EuroRV3](http://www.eurorvvv.org/) (Reproducibility, Verification, and Validation in Visualization) workshops
+
+* adding papers on currently missing topics (most notably, studies on color are mostly missing)
 
 * providing better keywords
 
