@@ -14,7 +14,3 @@ In particular, more work is needed in the following areas:
 * adding papers on currently missing topics (most notably, studies on color are mostly missing)
 
 * providing better keywords
-
-* adding some missing abstracts (though some papers actually do not have abstracts)
-
-* fixing formatting - some of the BiBTeX entries contain LaTeX formatting 
