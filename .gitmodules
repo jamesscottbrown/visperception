@@ -1,0 +1,3 @@
+[submodule "PubViz"]
+	path = PubViz
+	url = https://github.com/jamesscottbrown/PubViz.git
