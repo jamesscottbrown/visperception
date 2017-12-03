@@ -14,3 +14,5 @@ In particular, more work is needed in the following areas:
 * adding papers on currently missing topics (most notably, studies on color are mostly missing)
 
 * providing better keywords
+
+The site is now hosted by GitHub pages, so changes to ``file.bib`` will appear on the site as soon as they are pushed to the ``master`` branch.
